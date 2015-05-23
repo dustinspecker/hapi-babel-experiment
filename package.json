@@ -1,0 +1,23 @@
+{
+  "name": "hapi-babel-experiment",
+  "version": "0.0.0",
+  "description": "Experimenting using Babel with Hapi",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dustinspecker/hapi-babel-experiment"
+  },
+  "author": "Dustin Specker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dustinspecker/hapi-babel-experiment/issues"
+  },
+  "homepage": "https://github.com/dustinspecker/hapi-babel-experiment",
+  "dependencies": {
+    "babel": "^5.4.7",
+    "hapi": "^8.5.1"
+  }
+}
