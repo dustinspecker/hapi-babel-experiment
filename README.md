@@ -11,4 +11,4 @@ Hapi-Babel-Experiment
 
 `GET /` returns "Hello, world!"
 
-`GET /{name}` return "Hello, {name}!"
+`GET /{name}` returns "Hello, {name}!"
